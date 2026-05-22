@@ -1,14 +1,6 @@
 # Carolina Zúñiga | Formal Academic Profile.
 ### *Backend-Focused programmer, Software Engineering Student*
 
-**Backend Logic and Frontline rhythm | Carolina is now listening**
-
-<br />
-
-<a href="https://open.spotify.com/user/Carolina Zuñiga" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dracula&bg_color=1d1a27&title_color=80DEEA&text_color=E8D7F1&icon_color=FFD1DC&border_color=B39DDB" width="400" alt="Spotify Profile Card" style="display:none;">
-</a>
-
 **It´s me**
 
 I am Carolina M. Zúñiga, a Software Engineering student at the Faculty of Electromechanical Engineering. I am currently focusing on full-stack development, database management, and UI/UX design. As an aspiring programmer, I enjoy building backend systems and creating functional applications.
@@ -26,6 +18,4 @@ I am Carolina M. Zúñiga, a Software Engineering student at the Faculty of Elec
 
 **Profile Statistics**
 
-🌌 **Profile Statistics**
-
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carozuniga006&show_icons=true&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&count_private=true&cache_seconds=1800)
+![Mis estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=carozuniga006&show_icons=true&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&count_private=true)
