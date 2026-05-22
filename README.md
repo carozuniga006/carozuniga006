@@ -3,7 +3,7 @@
 
 **Backend Logic and Frontline rhythm | Carolina is now listening**
 
-[![Spotify](https://novatodev-spotify.vercel.app/api/assets/svg/spotify-widget.svg)](https://open.spotify.com)
+[![Spotify](https://novatodev-spotify.vercel.app/api/assets/svg/spotify-widget.svg)](http://googleusercontent.com/spotify.com/2)
 
 **It´s me**
 
@@ -22,4 +22,4 @@ I am Carolina M. Zúñiga, a Software Engineering student at the Faculty of Elec
 
 **Profile Statistics**
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=caro.zuniga.006&show_icons=true&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&count_private=true)
+![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=carozuniga006&show_icons=true&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&count_private=true)
