@@ -18,4 +18,10 @@ I am Carolina M. Zúñiga, a Software Engineering student at the Faculty of Elec
 
 **Profile Statistics**
 
-![Mis estadísticas de GitHub](https://github-stats-extended.vercel.app/api?username=carozuniga006&show_icons=true&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&count_private=true)
+<br />
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=carozuniga006&show_icons=true&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&count_private=true" height="180" alt="Carolina's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=carozuniga006&layout=compact&bg_color=1d1a27&title_color=FFD1DC&text_color=E8D7F1&icon_color=80DEEA&border_color=B39DDB&langs_count=5" height="180" alt="Carolina's Top Languages" />
+</p>
